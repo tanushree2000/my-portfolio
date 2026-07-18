@@ -7,8 +7,6 @@ export const personalData = {
   github: "https://github.com/tanushree2000/",
   linkedIn: "https://www.linkedin.com/in/poojarytanushree/",
   leetcode: "https://leetcode.com/u/tanushreepoojary2000/",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing",
-  leetcode: "https://leetcode.com/said3812/",
   devUsername: "said7388",
   resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
 }
