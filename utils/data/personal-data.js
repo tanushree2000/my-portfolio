@@ -3,7 +3,7 @@ export const personalData = {
   profile: '/profile.png',
   designation: "Analytics Engineer",
   designations: ["Analytics Engineer", "BI Analyst", "Data Analyst"],
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
+  description: "My name is Tanushree Poojary. I am a professional and enthusiastic Analytics Engineer. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I enjoy working across the data stack, from building pipelines to enabling clean, reliable analytics. My core skills are based on SQL and Python, and I love turning raw data into something people can actually use. I am available for any kind of job opportunity that suits my skills and interests.",
   email: 'tanushreenp.work@gmail.com',
   github: 'https://github.com/tanushree2000',
   linkedIn: 'https://www.linkedin.com/in/poojarytanushree/',
