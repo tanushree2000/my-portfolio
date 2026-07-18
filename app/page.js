@@ -1,5 +1,4 @@
 import About from "./components/homepage/about";
-import Contact from "./components/homepage/contact";
 import Education from "./components/homepage/education";
 import Experience from "./components/homepage/experience";
 import HeroSection from "./components/homepage/hero-section";
@@ -15,7 +14,6 @@ export default function Home() {
       <Skills />
       <Projects />
       <Education />
-      <Contact />
     </>
   );
 }
