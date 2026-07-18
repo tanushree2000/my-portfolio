@@ -9,6 +9,7 @@ export const personalData = {
   github: 'https://github.com/tanushree2000',
   facebook: 'https://www.facebook.com/abusaid.riyaz/',
   linkedIn: 'https://www.linkedin.com/in/poojarytanushree/',
+  twitter: 'https://twitter.com/said7388',
   stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
   leetcode: "https://leetcode.com/tanushreepoojary2000/",
   devUsername: "said7388",
