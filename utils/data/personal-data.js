@@ -7,8 +7,8 @@ export const personalData = {
     "Data Analyst",
     "Business System Analyst"
   ],
-  description: "My name is Tanushree Poojary. I am a curious and enthusiastic analyst with a passion for solving problems through data. I am a quick learner with a self-learning attitude, and I love exploring new technologies. I enjoy working across different areas of analytics and business intelligence, making data more accessible and actionable. My core strength lies in business intelligence, and I approach challenges through an analytical lens. I am open to opportunities where I can apply my skills, learn, and create meaningful impact.",
-  email: "tanushreenp.work@gmail.com",
+  description: "My name is Tanushree Poojary. I am a curious and enthusiastic analyst in my daily life. I am a quick learner with a self-learning attitude. I love exploring new technologies and am passionate about problem-solving. I'm drawn to almost every stack of analytics and business intelligence, and I love making data more accessible to the world. My core skill lies in business intelligence, and I enjoy approaching most things through an analytical lens. I am available for any job opportunity that suits my skills and interests.",
+email: "tanushreenp.work@gmail.com",
   github: "https://github.com/tanushree2000/",
   linkedIn: "https://www.linkedin.com/in/poojarytanushree/",
   leetcode: "https://leetcode.com/u/tanushreepoojary2000/",
