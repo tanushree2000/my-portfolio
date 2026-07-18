@@ -1,9 +1,5 @@
 
-<h1 align="center">Developer Portfolio</h1>
 
-<p align="center">
-  <strong>A modern, responsive, and customizable portfolio template for developers and freelancers</strong>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-16.0.1-black?style=for-the-badge&logo=next.js" alt="Next.js 16.0.1">
